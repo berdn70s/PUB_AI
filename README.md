@@ -23,7 +23,7 @@ Installation
 Clone the repository:
 bash
 Kodu kopyala
-git clone https://github.com/yourusername/pub-robot-game.git
+git clone https://github.com/berdn70s/PUB_AI.git
 Ensure the robot.png file is in the same directory as the se420_pubgame.py script.
 Usage
 
